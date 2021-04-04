@@ -1,9 +1,9 @@
 import Welcome from './components/welcome';
 
 const App = () => {
-    return (
-        <Welcome/>
-    );
+  return (
+    <Welcome />
+  );
 }
 
 export default App;
